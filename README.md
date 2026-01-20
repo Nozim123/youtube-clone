@@ -1,5 +1,10 @@
 # ViewTube - YouTube Clone
 
+<img width="1349" height="614" alt="image" aligin='center' src="https://github.com/user-attachments/assets/fbc41695-a84c-4021-b491-36fe3fa24ecb" />
+
+ 
+ <a aligin='center' href="https://youtube-clone-studio.vercel.app/"><strong>➥ Live Demo Instagram Clone</strong></a>
+
 A modern, fully-responsive YouTube clone built with React, TypeScript, and Tailwind CSS. This project replicates YouTube's core features with a clean, professional UI and excellent user experience.
 
 ## ✨ Features
