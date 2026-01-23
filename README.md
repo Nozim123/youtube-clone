@@ -118,6 +118,9 @@ To use real YouTube data instead of sample data:
 2. Create a `.env` file:
 ```env
 VITE_YOUTUBE_API_KEY=your_api_key_here
+VITE_SUPABASE_PROJECT_ID=""
+VITE_SUPABASE_PUBLISHABLE_KEY=""
+VITE_SUPABASE_URL=""
 ```
 3. Restart the development server
 
